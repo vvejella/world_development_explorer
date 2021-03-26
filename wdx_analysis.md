@@ -10,10 +10,16 @@ I found some topics whcih seems interesting during exploration of the data of Wo
 - The indicator about Electricity access means % of population with access to electricity. Here data is taken from industries, national surveys.
 - The indicator about what % of electricity is produced from Oil,gas,coal resources refers to inputs used to produce electricity here oil means crude oil and petroleum products, coal refers to all coal and brown coal, fuel refers to derived fuels.
 - The indicator about % of age dependancy ratio(% working-age population) means it is the ratio of dependants younger than 15 or older than 64. Data is shown as proportion of dependents per 100 working-age population.
+- Refer the Electricity-1 graph.
 
 2. I am choosing next 3 topics are Urban development, Education and Infrastructure to know about what % of Urban population(% total population), and Population, ages(15-24) total are using Vehicles(per km of Road).  
 - The indicator about % of Urban population(% total population) means the people living in Urban areas. Here Data is collected from United Nations Population Division.
 - The indicator about Population, ages(15-24) total means total population age 15-24. Here data is collected from UNESCO Institute of statistics.
 - The indicator about Vehicles(per km of Road) means vehicles per km of Road include cars, buses and road means highways, national roads, regional roads and other roads. Data is taken from International road federation, world road statistics.
+- Refer the urban population, vehicles, population graph.
 
-3. 
+3. I choose Private sector,Education and Science & Technology topics to know what % Labour tax and contributions(% of commercial profits), Literacy rate,youth total(% of people age 15-24)  are working as Technicians in R&D(per million people). 
+- The indicator about % Labour tax and contributions(% of commercial profits) means amount of taxes and mandatory contributions on labor paid by business. Data is taken from world bank, https://www.doingbusiness.org/.
+-  The indicator about Literacy rate,youth total(% of people age 15-24) means the percentage of people ages 15-24 who can read and write. Here data is collected from UNESCO Institute of statistics.
+-  The indicator about Technicians in R&D(per million people) means number of technicians participated in Research and development, R&D covers basic research and experimental developemnt. Here data is collected from UNESCO Institute of statistics.
+-  Refer the labour vs literacy vs r&d graph.
