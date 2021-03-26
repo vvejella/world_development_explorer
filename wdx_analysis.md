@@ -7,7 +7,7 @@
 I found some topics whcih seems interesting during exploration of the data of World Development Explorer site. They are:
 
 1. Energy mining, Enviornment and Health these are topics which I choose first to know about % of Electricity access, what % of electricity is produced from Oil,gas,coal and what % of age dependancy ratio(% working-age population) are using electricity. 
-a) The indicator about Electricity access means % of population with access to electricity. Here data is taken from industries, national surveys.
-b) The indicator about what % of electricity is produced from Oil,gas,coal resources refers to inputs used to produce electricity here oil means crude oil and petroleum products, coal refers to all coal and brown coal, fuel refers to derived fuels.
-c) The indicator about % of age dependancy ratio(% working-age population) means it is the ratio of dependants younger than 15 or older than 64. Data is shown as proportion of dependents per 100 working-age population.
+- The indicator about Electricity access means % of population with access to electricity. Here data is taken from industries, national surveys.
+- The indicator about what % of electricity is produced from Oil,gas,coal resources refers to inputs used to produce electricity here oil means crude oil and petroleum products, coal refers to all coal and brown coal, fuel refers to derived fuels.
+- The indicator about % of age dependancy ratio(% working-age population) means it is the ratio of dependants younger than 15 or older than 64. Data is shown as proportion of dependents per 100 working-age population.
 
