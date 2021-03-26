@@ -1,8 +1,8 @@
 # Individual Project-1
 
-#### The World Development Indicators (WDI) is the World Bank’s premier compilation of cross-country historical data on development. The dataset includes more than 1400 socioeconomic indicators of 200 plus countries over 50 plus years. It is rich in information about a country's economy, environment, people, and healthcare (The World Bank, 2021).
+##### The World Development Indicators (WDI) is the World Bank’s premier compilation of cross-country historical data on development. The dataset includes more than 1400 socioeconomic indicators of 200 plus countries over 50 plus years. It is rich in information about a country's economy, environment, people, and healthcare (The World Bank, 2021).
 
-#### The WDX is web-based, cloud-hosted, and free for all to use anywhere anytime with Internet connection. Users can visually and interactively explore trends and relations and compare countries and regions. The beautiful and informative charts are of publication-quality and can be readily downloaded for use in blogs, presentations, reports, and papers.
+##### The WDX is web-based, cloud-hosted, and free for all to use anywhere anytime with Internet connection. Users can visually and interactively explore trends and relations and compare countries and regions. The beautiful and informative charts are of publication-quality and can be readily downloaded for use in blogs, presentations, reports, and papers.
 
 I found some topics whcih seems interesting during exploration of the data of World Development Explorer site. They are:
 
