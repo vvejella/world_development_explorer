@@ -29,7 +29,7 @@ According to above bar graph for last 10 years,South Asia is using more Electric
 - ![image](https://user-images.githubusercontent.com/71124557/112763241-9f640080-8fd1-11eb-9e30-4daa83b70b21.png)
 according to above graph Kenya is using more vehicles.
 - ![image](https://user-images.githubusercontent.com/71124557/112764168-544bec80-8fd5-11eb-9ef8-ac894ae6b2ac.png)
-according to above bar graph for period b/w 2008-13 the Middle-east africa is using vehicles more.
+according to above bar graph for period b/w 2008-13 the Middle-east & North africa is using vehicles more.
 
 
 3. Next 3 topics are Private sector,Education and Science & Technology topics to know what % Labour tax and contributions(% of commercial profits) and Literacy rate,youth total(% of people age 15-24)  are working as Technicians in R&D(per million people). 
@@ -39,5 +39,9 @@ according to above bar graph for period b/w 2008-13 the Middle-east africa is us
 -  I want to analyse this issue how many % Labour tax and contributions(% of commercial profits) given to r&d technicians b/w Literacy rate,youth total(% of people age 15-24).
 -  Here I took Europe and Central-Asia, East Asia & Pacific, Latin America and Caribbean regions with a time span of 10 years.
 -  Refer the labour vs literacy vs r&d and labour named graphs for the comparision.
-![image](https://user-images.githubusercontent.com/71124557/112763269-c3274680-8fd1-11eb-8f53-ab095bbbb6b2.png)
+- ![image](https://user-images.githubusercontent.com/71124557/112763269-c3274680-8fd1-11eb-8f53-ab095bbbb6b2.png)
+In above graph Spain is having more technicians and Literated people b/w 15-24.
+- ![image](https://user-images.githubusercontent.com/71124557/112764623-70e92400-8fd7-11eb-96d7-b43d8debf71a.png)
+In above graph b/w period 2008-15 Europe region is having more literated people than Latin America and Caribbean region.
+
 
