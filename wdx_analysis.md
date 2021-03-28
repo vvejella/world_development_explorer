@@ -14,6 +14,8 @@ I found some topics whcih seems interesting during exploration of the data of Wo
 - I took North America and South Asia regions for comparision with time span of 7 years.
 - Refer the Electricity named graphs for the comparision.
 
+![image](https://user-images.githubusercontent.com/71124557/112763075-0503bd00-8fd1-11eb-8dd1-b0e97e560310.png)
+
 2. Next 3 topics are Urban development, Education and Infrastructure to know about what % of Urban population(% total population), and Population, ages(15-24) total are using Vehicles(per km of Road).  
 - The indicator about % of Urban population(% total population) means the people living in Urban areas. Here Data is collected from United Nations Population Division.
 - The indicator about Population, ages(15-24) total means total population age 15-24. Here data is collected from UNESCO Institute of statistics.
