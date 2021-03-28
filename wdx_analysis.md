@@ -23,6 +23,8 @@ I found some topics whcih seems interesting during exploration of the data of Wo
 - I want to analyse this issue by comparing the usage of vehicles(per km on road) by Urban population(% total population) and Population b/w 15-24 mainly in different regions.
 - I took Middle-East and North Africa, Sub-Saharan Africa regions for comparision with time span of 10 years.
 - Refer the urban population, vehicles, population and Urban named graphs for the comparision.
+![image](https://user-images.githubusercontent.com/71124557/112763241-9f640080-8fd1-11eb-9e30-4daa83b70b21.png)
+
 
 3. Next 3 topics are Private sector,Education and Science & Technology topics to know what % Labour tax and contributions(% of commercial profits) and Literacy rate,youth total(% of people age 15-24)  are working as Technicians in R&D(per million people). 
 - The indicator about % Labour tax and contributions(% of commercial profits) means amount of taxes and mandatory contributions on labor paid by business. Data is taken from world bank, https://www.doingbusiness.org/.
@@ -31,3 +33,5 @@ I found some topics whcih seems interesting during exploration of the data of Wo
 -  I want to analyse this issue how many % Labour tax and contributions(% of commercial profits) given to r&d technicians b/w Literacy rate,youth total(% of people age 15-24).
 -  Here I took Europe and Central-Asia, East Asia & Pacific, Latin America and Caribbean regions with a time span of 10 years.
 -  Refer the labour vs literacy vs r&d and labour named graphs for the comparision.
+![image](https://user-images.githubusercontent.com/71124557/112763269-c3274680-8fd1-11eb-8f53-ab095bbbb6b2.png)
+
