@@ -26,7 +26,10 @@ According to above bar graph for last 10 years,South Asia is using more Electric
 - I want to analyse this issue by comparing the usage of vehicles(per km on road) by Urban population(% total population) and Population b/w 15-24 mainly in different regions.
 - I took Middle-East and North Africa, Sub-Saharan Africa regions for comparision with time span of 10 years.
 - Refer the urban population, vehicles, population and Urban named graphs for the comparision.
-![image](https://user-images.githubusercontent.com/71124557/112763241-9f640080-8fd1-11eb-9e30-4daa83b70b21.png)
+- ![image](https://user-images.githubusercontent.com/71124557/112763241-9f640080-8fd1-11eb-9e30-4daa83b70b21.png)
+according to above graph Kenya is using more vehicles.
+- ![image](https://user-images.githubusercontent.com/71124557/112764168-544bec80-8fd5-11eb-9ef8-ac894ae6b2ac.png)
+according to above bar graph for period b/w 2008-13 the Middle-east africa is using vehicles more.
 
 
 3. Next 3 topics are Private sector,Education and Science & Technology topics to know what % Labour tax and contributions(% of commercial profits) and Literacy rate,youth total(% of people age 15-24)  are working as Technicians in R&D(per million people). 
