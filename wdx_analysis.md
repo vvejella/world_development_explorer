@@ -11,10 +11,11 @@ I found some topics whcih seems interesting during exploration of the data of Wo
 - The indicator about what % of electricity is produced from Oil,gas,coal resources refers to inputs used to produce electricity here oil means crude oil and petroleum products, coal refers to all coal and brown coal, fuel refers to derived fuels.
 - The indicator about % of age dependancy ratio(% working-age population) means it is the ratio of dependants younger than 15 or older than 64. Data is shown as proportion of dependents per 100 working-age population.
 - I want to analyse this issue by comparing the access of electricity and how much % of electricity produced from Oil,gas,coal resources used by the working-age population.
+- I want to know this to see what % of dependants are using electricity mainly from the oil, coal resources.
 - I took North America and South Asia regions for comparision with time span of 7 years.
 - Refer the Electricity named graphs for the comparision.
-
-![image](https://user-images.githubusercontent.com/71124557/112763075-0503bd00-8fd1-11eb-8dd1-b0e97e560310.png)
+- ![image](https://user-images.githubusercontent.com/71124557/112763075-0503bd00-8fd1-11eb-8dd1-b0e97e560310.png)
+- according to above grapgh Inida is highest in my analysis.
 
 2. Next 3 topics are Urban development, Education and Infrastructure to know about what % of Urban population(% total population), and Population, ages(15-24) total are using Vehicles(per km of Road).  
 - The indicator about % of Urban population(% total population) means the people living in Urban areas. Here Data is collected from United Nations Population Division.
