@@ -42,6 +42,6 @@ according to above bar graph for period b/w 2008-13 the Middle-east & North afri
 - ![image](https://user-images.githubusercontent.com/71124557/112763269-c3274680-8fd1-11eb-8f53-ab095bbbb6b2.png)
 In above graph Spain is having more technicians and Literated people b/w 15-24.
 - ![image](https://user-images.githubusercontent.com/71124557/112764623-70e92400-8fd7-11eb-96d7-b43d8debf71a.png)
-In above graph b/w period 2008-15 Europe & Central-Asia region is having more literated people than Latin America and Caribbean region.
+In above bar graph b/w period 2008-15, Europe & Central-Asia region is having more literated people than Latin America and Caribbean region.
 
 
