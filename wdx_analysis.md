@@ -14,13 +14,13 @@ I found some topics whcih seems interesting during exploration of the data of Wo
 - This will help me to know how much usage of electricity and mainly the electricity which is produced from coal,oil,gas resources used by working-age population.
 - I did comparision between India, Srilanka which are still developing countries with the developed countries like Canada and United States with a timespan of 7 years b/w 2013-2020.
 - ![image](https://user-images.githubusercontent.com/71124557/112786899-48881680-9025-11eb-9d8b-3e75561df493.png)
-according to above graph India is highest in my analysis with the highest access of Electricity.
+according to above bubble graph India is highest in my analysis with the highest access of Electricity.
 -![image](https://user-images.githubusercontent.com/71124557/112857234-a7c64500-907e-11eb-9e91-d03448b92b31.png)
 Here in this Pie chart, we can see the United states and Canada are same in usage of electricity.
 - ![image](https://user-images.githubusercontent.com/71124557/112857452-dd6b2e00-907e-11eb-8ae8-b120392d5942.png)
-In above pie chart I observed Srilanka is not there in the diagram and India is lowest in accessing electricity during past years like 1995-1997.
+In above pie chart, I observed Srilanka is not there in the diagram and India is lowest in accessing electricity during past years like 1995-1997.
 - ![image](https://user-images.githubusercontent.com/71124557/112787006-8b49ee80-9025-11eb-8475-ece5d3d72e87.png)
-Here in Bargraph I observed for past years, India is second lowest and Srilanka is not there in the graph during the comparsion b/w other 2 countries in the years between 2000-2010.
+Here in Bargraph, I observed for past years, India is second lowest and Srilanka is not there in the graph during the comparsion b/w other 2 countries in the years between 2000-2010.
 
 
 2. Next 3 topics are Urban development, Education and Infrastructure to know about what % of Urban population(% total population), and what % Population, ages(15-24), what % of Railway passengers carried(million passenger-km). 
@@ -31,13 +31,13 @@ Here in Bargraph I observed for past years, India is second lowest and Srilanka 
 - This will help me to know how much % of youth using Railway mainly in Urban cities.
 - I did comparision between Bangladesh which is still developing country with the developed countries like China, Germany and Japan with a timespan of 10 years b/w 2010-2020.
 - ![image](https://user-images.githubusercontent.com/71124557/112853138-8fecc200-907a-11eb-8c86-c1778c7863f7.png)
-according to above image China is highest in the count of Railway passengers.
+according to above graph China is highest in the count of Railway passengers and Urban population.
 - ![image](https://user-images.githubusercontent.com/71124557/112860060-77cc7100-9081-11eb-8076-54800c9854ea.png)
-Here in the Pir-chart, China is highest in using Railway more than other 3 countries.
+Here in the Pie-chart, China is highest in using Railway more than other 3 countries.
 - ![image](https://user-images.githubusercontent.com/71124557/112860286-aea28700-9081-11eb-855c-95e007824ff0.png)
-Here in the above pie chart, Japan and China are almost same in usage of Railways and Bangaladesh which is not a much developed country is in last position compared to the  past years like 1995-2001.
+Here in the above pie chart, Japan and China are almost same in usage of Railways compared to the  past years during 1995-2001.
 - ![image](https://user-images.githubusercontent.com/71124557/112853251-aa26a000-907a-11eb-8ac2-05d33624797a.png)
-Here in Bargraph I observed for past years, Japan is highest in in the count of Railway passengers during the comparsion b/w other countries in the years between 1995-2001.
+Here in Bargraph, I observed for past years, Japan is highest in in the count of Railway passengers during the comparsion b/w other countries during 1995-2001.
 
 
 ##### For more information Please refer the graphs in charts folder.
