@@ -12,36 +12,17 @@ I found some topics whcih seems interesting during exploration of the data of Wo
 - The indicator about % of age dependancy ratio(% working-age population) means it is the ratio of dependants younger than 15 or older than 64. Data is shown as proportion of dependents per 100 working-age population.
 - I want to analyse this issue by comparing the access of electricity and how much % of electricity produced from Oil,gas,coal resources used by the working-age population.
 - I want to know this to see what % of dependants are using electricity mainly from the oil, coal resources.
-- I took North America and South Asia regions for comparision with time span of 7 years.
-- Refer the Electricity named graphs for the comparision.
-- ![image](https://user-images.githubusercontent.com/71124557/112763075-0503bd00-8fd1-11eb-8dd1-b0e97e560310.png)
-According to above grapgh Inida is highest in my analysis.
-- ![image](https://user-images.githubusercontent.com/71124557/112763694-84928b80-8fd3-11eb-963a-4aee7e2a73d9.png)
-According to above bar graph for last 10 years,South Asia is using more Electricity than North-America.
+- I did comparision between India, Srilanka which are still developing countries with the developed countries like Canada and United States.
+- 
 
-2. Next 3 topics are Urban development, Education and Infrastructure to know about what % of Urban population(% total population), and Population, ages(15-24) total are using Vehicles(per km of Road).  
+
+2. Next 3 topics are Urban development, Education and Infrastructure to know about what % of Urban population(% total population), and Population, ages(15-24), Railway passengers carried(million passenger-km). 
 - The indicator about % of Urban population(% total population) means the people living in Urban areas. Here Data is collected from United Nations Population Division.
 - The indicator about Population, ages(15-24) total means total population age 15-24. Here data is collected from UNESCO Institute of statistics.
-- The indicator about Vehicles(per km of Road) means vehicles per km of Road include cars, buses and road means highways, national roads, regional roads and other roads. Data is taken from International road federation, world road statistics.
-- I want to analyse this issue by comparing the usage of vehicles(per km on road) by Urban population(% total population) and Population b/w 15-24 mainly in different regions.
-- I took Middle-East and North Africa, Sub-Saharan Africa regions for comparision with time span of 10 years.
-- Refer the urban population, vehicles, population and Urban named graphs for the comparision.
-- ![image](https://user-images.githubusercontent.com/71124557/112763241-9f640080-8fd1-11eb-9e30-4daa83b70b21.png)
-according to above graph Kenya is using more vehicles.
-- ![image](https://user-images.githubusercontent.com/71124557/112764168-544bec80-8fd5-11eb-9ef8-ac894ae6b2ac.png)
-according to above bar graph for period b/w 2008-13 the Middle-east & North africa is using vehicles more.
-
-
-3. Next 3 topics are Private sector,Education and Science & Technology topics to know what % Labour tax and contributions(% of commercial profits) and Literacy rate,youth total(% of people age 15-24)  are working as Technicians in R&D(per million people). 
-- The indicator about % Labour tax and contributions(% of commercial profits) means amount of taxes and mandatory contributions on labor paid by business. Data is taken from world bank, https://www.doingbusiness.org/.
--  The indicator about Literacy rate,youth total(% of people age 15-24) means the percentage of people ages 15-24 who can read and write. Here data is collected from UNESCO Institute of statistics.
--  The indicator about Technicians in R&D(per million people) means number of technicians participated in Research and development, R&D covers basic research and experimental developemnt. Here data is collected from UNESCO Institute of statistics.
--  I want to analyse this issue how many % Labour tax and contributions(% of commercial profits) given to r&d technicians b/w Literacy rate,youth total(% of people age 15-24).
--  Here I took Europe and Central-Asia, East Asia & Pacific, Latin America and Caribbean regions with a time span of 10 years.
--  Refer the labour vs literacy vs r&d and labour named graphs for the comparision.
-- ![image](https://user-images.githubusercontent.com/71124557/112763269-c3274680-8fd1-11eb-8f53-ab095bbbb6b2.png)
-In above graph Spain is having more technicians and Literated people b/w 15-24.
-- ![image](https://user-images.githubusercontent.com/71124557/112764623-70e92400-8fd7-11eb-96d7-b43d8debf71a.png)
-In above bar graph b/w period 2008-15, Europe & Central-Asia region is having more literated people than Latin America and Caribbean region.
-
-
+- The indicator about Railway passengers carried(million passenger-km) means passengers carried by railway are the number of passenegrs transported by rail times kms travelled. Here data is collected from Internation union of Railways(UIC).
+- I want to analyse this issue by comparing the usage of Railway by Urban population(% total population) and Population b/w 15-24 mainly in different regions.
+- I did comparision between Bangladesh which is still developing country with the developed countries like China, Germany and Japan with a timespan of 10 years b/w 2010-2020.
+- ![image](https://user-images.githubusercontent.com/71124557/112786620-a9fbb580-9024-11eb-936b-51c0e68c25c6.png)
+according to above image China is highest in the count of Railway passengers.
+- ![image](https://user-images.githubusercontent.com/71124557/112786738-eaf3ca00-9024-11eb-9a20-fa87467d67ee.png)
+here in the above bar graph Japan is highest in in the count of Railway passengers.
