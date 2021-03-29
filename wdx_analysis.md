@@ -12,8 +12,11 @@ I found some topics whcih seems interesting during exploration of the data of Wo
 - The indicator about % of age dependancy ratio(% working-age population) means it is the ratio of dependants younger than 15 or older than 64. Data is shown as proportion of dependents per 100 working-age population.
 - I want to analyse this issue by comparing the access of electricity and how much % of electricity produced from Oil,gas,coal resources used by the working-age population.
 - I want to know this to see what % of dependants are using electricity mainly from the oil, coal resources.
-- I did comparision between India, Srilanka which are still developing countries with the developed countries like Canada and United States.
-- 
+- I did comparision between India, Srilanka which are still developing countries with the developed countries like Canada and United States with a timespan of 7 years b/w 2013-2020.
+- ![image](https://user-images.githubusercontent.com/71124557/112786899-48881680-9025-11eb-9d8b-3e75561df493.png)
+according to above graph India is highest in my analysis with the highest access of Electricity.
+- ![image](https://user-images.githubusercontent.com/71124557/112787006-8b49ee80-9025-11eb-8475-ece5d3d72e87.png)
+Here in Bargraph India is second lowest comapred to other 3 countries and Srilanka is not there in the comparsion during the years between 2000-2010.
 
 
 2. Next 3 topics are Urban development, Education and Infrastructure to know about what % of Urban population(% total population), and Population, ages(15-24), Railway passengers carried(million passenger-km). 
