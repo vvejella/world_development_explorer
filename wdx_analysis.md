@@ -26,9 +26,9 @@ Here in Bargraph India is second lowest and Srilanka is not there in the graph d
 - I want to analyse this issue by comparing the usage of Railway by Urban population(% total population) and in that mainly by Population b/w 15-24 mainly in various countries.
 - This will help me to know how much % of youth using Railway mainly in Urban cities.
 - I did comparision between Bangladesh which is still developing country with the developed countries like China, Germany and Japan with a timespan of 10 years b/w 2010-2020.
-- ![image](https://user-images.githubusercontent.com/71124557/112786620-a9fbb580-9024-11eb-936b-51c0e68c25c6.png)
+- ![image](https://user-images.githubusercontent.com/71124557/112853138-8fecc200-907a-11eb-8c86-c1778c7863f7.png)
 according to above image China is highest in the count of Railway passengers.
-- ![image](https://user-images.githubusercontent.com/71124557/112786738-eaf3ca00-9024-11eb-9a20-fa87467d67ee.png)
-here in the above bar graph Japan is highest in in the count of Railway passengers.
+- ![image](https://user-images.githubusercontent.com/71124557/112853251-aa26a000-907a-11eb-8ac2-05d33624797a.png)
+here in the above bar graph Japan is highest in in the count of Railway passengers during the comparsion b/w other countries in the years between 1995-2001.
 
 ##### For more information Please refer the graphs in charts folder.
