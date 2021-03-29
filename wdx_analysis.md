@@ -16,10 +16,10 @@ I found some topics whcih seems interesting during exploration of the data of Wo
 - ![image](https://user-images.githubusercontent.com/71124557/112786899-48881680-9025-11eb-9d8b-3e75561df493.png)
 according to above graph India is highest in my analysis with the highest access of Electricity.
 - ![image](https://user-images.githubusercontent.com/71124557/112787006-8b49ee80-9025-11eb-8475-ece5d3d72e87.png)
-Here in Bargraph India is second lowest comapred to other 3 countries and Srilanka is not there in the comparsion during the years between 2000-2010.
+Here in Bargraph India is second lowest and Srilanka is not there in the graph during the comparsion b/w other 2 countries in the years between 2000-2010.
 
 
-2. Next 3 topics are Urban development, Education and Infrastructure to know about what % of Urban population(% total population), and Population, ages(15-24), Railway passengers carried(million passenger-km). 
+2. Next 3 topics are Urban development, Education and Infrastructure to know about what % of Urban population(% total population), and what % Population, ages(15-24), what % of Railway passengers carried(million passenger-km). 
 - The indicator about % of Urban population(% total population) means the people living in Urban areas. Here Data is collected from United Nations Population Division.
 - The indicator about Population, ages(15-24) total means total population age 15-24. Here data is collected from UNESCO Institute of statistics.
 - The indicator about Railway passengers carried(million passenger-km) means passengers carried by railway are the number of passenegrs transported by rail times kms travelled. Here data is collected from Internation union of Railways(UIC).
