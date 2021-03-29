@@ -35,8 +35,9 @@ according to above image China is highest in the count of Railway passengers.
 - ![image](https://user-images.githubusercontent.com/71124557/112860060-77cc7100-9081-11eb-8076-54800c9854ea.png)
 Here in the Pir-chart, China is highest in using Railway more than other 3 countries.
 - ![image](https://user-images.githubusercontent.com/71124557/112860286-aea28700-9081-11eb-855c-95e007824ff0.png)
-Here in the above pie chart, Japan and China are almost same in usage of Railways in past years like 1995-2001.
+Here in the above pie chart, Japan and China are almost same in usage of Railways and Bangaladesh which is not a much developed country is in last position compared to the  past years like 1995-2001.
 - ![image](https://user-images.githubusercontent.com/71124557/112853251-aa26a000-907a-11eb-8ac2-05d33624797a.png)
 Here in Bargraph I observed for past years, Japan is highest in in the count of Railway passengers during the comparsion b/w other countries in the years between 1995-2001.
+
 
 ##### For more information Please refer the graphs in charts folder.
