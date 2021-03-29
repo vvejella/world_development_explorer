@@ -15,6 +15,10 @@ I found some topics whcih seems interesting during exploration of the data of Wo
 - I did comparision between India, Srilanka which are still developing countries with the developed countries like Canada and United States with a timespan of 7 years b/w 2013-2020.
 - ![image](https://user-images.githubusercontent.com/71124557/112786899-48881680-9025-11eb-9d8b-3e75561df493.png)
 according to above graph India is highest in my analysis with the highest access of Electricity.
+-![image](https://user-images.githubusercontent.com/71124557/112857234-a7c64500-907e-11eb-9e91-d03448b92b31.png)
+Here in this Pie chart, we can see the United states and Canada are same in usage of electricity.
+- ![image](https://user-images.githubusercontent.com/71124557/112857452-dd6b2e00-907e-11eb-8ae8-b120392d5942.png)
+In above pie chart I observed Srilanka is not there in the diagram and India is lowest in accessing electricity during past years like 1995-1997.
 - ![image](https://user-images.githubusercontent.com/71124557/112787006-8b49ee80-9025-11eb-8475-ece5d3d72e87.png)
 Here in Bargraph I observed for past years, India is second lowest and Srilanka is not there in the graph during the comparsion b/w other 2 countries in the years between 2000-2010.
 
