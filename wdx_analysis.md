@@ -16,7 +16,7 @@ I found some topics whcih seems interesting during exploration of the data of Wo
 - ![image](https://user-images.githubusercontent.com/71124557/112786899-48881680-9025-11eb-9d8b-3e75561df493.png)
 according to above graph India is highest in my analysis with the highest access of Electricity.
 - ![image](https://user-images.githubusercontent.com/71124557/112787006-8b49ee80-9025-11eb-8475-ece5d3d72e87.png)
-Here in Bargraph India is second lowest and Srilanka is not there in the graph during the comparsion b/w other 2 countries in the years between 2000-2010.
+Here in Bargraph I observed for past years, India is second lowest and Srilanka is not there in the graph during the comparsion b/w other 2 countries in the years between 2000-2010.
 
 
 2. Next 3 topics are Urban development, Education and Infrastructure to know about what % of Urban population(% total population), and what % Population, ages(15-24), what % of Railway passengers carried(million passenger-km). 
@@ -29,6 +29,6 @@ Here in Bargraph India is second lowest and Srilanka is not there in the graph d
 - ![image](https://user-images.githubusercontent.com/71124557/112853138-8fecc200-907a-11eb-8c86-c1778c7863f7.png)
 according to above image China is highest in the count of Railway passengers.
 - ![image](https://user-images.githubusercontent.com/71124557/112853251-aa26a000-907a-11eb-8ac2-05d33624797a.png)
-here in the above bar graph Japan is highest in in the count of Railway passengers during the comparsion b/w other countries in the years between 1995-2001.
+Here in Bargraph I observed for past years, Japan is highest in in the count of Railway passengers during the comparsion b/w other countries in the years between 1995-2001.
 
 ##### For more information Please refer the graphs in charts folder.
