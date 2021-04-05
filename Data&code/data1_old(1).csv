@@ -1,0 +1,44 @@
+,Year,SP.POP.DPND,EG.ELC.ACCS.ZS,EG.ELC.FOSL.ZS,Country Code,Country Name,Region,Income Group,Lending Type
+0,2000,46.4743272437,100.0,26.7737897873,CAN,Canada,North America,High income,Not classified
+1,2001,46.0067216678,100.0,28.9541863068,CAN,Canada,North America,High income,Not classified
+2,2002,45.5906569288,100.0,27.5411788581,CAN,Canada,North America,High income,Not classified
+3,2003,45.20707408,100.0,28.3718547618,CAN,Canada,North America,High income,Not classified
+4,2004,44.8342898896,100.0,26.4767906112,CAN,Canada,North America,High income,Not classified
+5,2005,44.4950930041,100.0,25.1269894476,CAN,Canada,North America,High income,Not classified
+6,2006,44.2369943174,100.0,24.4130141649,CAN,Canada,North America,High income,Not classified
+7,2007,44.0347757281,100.0,24.8212328451,CAN,Canada,North America,High income,Not classified
+8,2008,43.9339025933,100.0,23.3195012867,CAN,Canada,North America,High income,Not classified
+9,2009,43.9767531769,100.0,22.0420080539,CAN,Canada,North America,High income,Not classified
+10,2010,44.1799447904,100.0,23.0800058292,CAN,Canada,North America,High income,Not classified
+11,2000,64.180372576,59.1254577637,83.4421648341,IND,India,South Asia,Lower middle income,IBRD
+12,2001,63.4281014255,55.8,83.4818445656,IND,India,South Asia,Lower middle income,IBRD
+13,2002,62.6032528551,62.3,84.7687640663,IND,India,South Asia,Lower middle income,IBRD
+14,2003,61.7315764252,64.1798400879,83.7936380384,IND,India,South Asia,Lower middle income,IBRD
+15,2004,60.8392023473,64.4,83.0202444184,IND,India,South Asia,Lower middle income,IBRD
+16,2005,59.9417432152,67.4434356689,80.9492270029,IND,India,South Asia,Lower middle income,IBRD
+17,2006,59.2142970399,67.9,80.0158700619,IND,India,South Asia,Lower middle income,IBRD
+18,2007,58.4720498003,70.6452713013,80.0515564687,IND,India,South Asia,Lower middle income,IBRD
+19,2008,57.7057028907,72.2509918213,81.7005852503,IND,India,South Asia,Lower middle income,IBRD
+20,2009,56.8825137507,75.0,82.2750849775,IND,India,South Asia,Lower middle income,IBRD
+21,2010,55.9862600636,76.3,81.23585892,IND,India,South Asia,Lower middle income,IBRD
+22,2001,48.6109487096,63.6,53.9890871553,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+23,2002,48.2632167887,80.7,61.8174121631,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+24,2003,48.1017070954,74.2907028198,57.1021254536,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+25,2004,48.0245404075,75.8948135376,63.8615664845,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+26,2005,47.9785526742,77.4739074707,62.7734877735,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+27,2006,48.17989227,79.036895752,51.0,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+28,2007,48.3029765841,80.0,59.9333400667,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+29,2008,48.3969199001,82.1608810425,58.4607696152,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+30,2009,48.5555235415,83.7450485229,60.7049869818,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+31,2010,48.8314318553,85.3,46.8845477271,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+32,2000,51.5992648229,100.0,71.593450881,USA,United States,North America,High income,Not classified
+33,2001,51.1542889679,100.0,72.198828237,USA,United States,North America,High income,Not classified
+34,2002,50.8018113193,100.0,70.9873760648,USA,United States,North America,High income,Not classified
+35,2003,50.4796955067,100.0,71.28935205,USA,United States,North America,High income,Not classified
+36,2004,50.1106892503,100.0,71.3857013365,USA,United States,North America,High income,Not classified
+37,2005,49.6845677497,100.0,72.1048601193,USA,United States,North America,High income,Not classified
+38,2006,49.6971103492,100.0,71.3259217345,USA,United States,North America,High income,Not classified
+39,2007,49.6149866978,100.0,71.9668864906,USA,United States,North America,High income,Not classified
+40,2008,49.521427534,100.0,71.3921777213,USA,United States,North America,High income,Not classified
+41,2009,49.5258139285,100.0,69.4503642512,USA,United States,North America,High income,Not classified
+42,2010,49.6705151892,100.0,70.277765083,USA,United States,North America,High income,Not classified

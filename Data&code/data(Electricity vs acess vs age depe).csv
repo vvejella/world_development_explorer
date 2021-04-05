@@ -1,0 +1,13 @@
+,Year,SP.POP.DPND,EG.ELC.ACCS.ZS,EG.ELC.FOSL.ZS,Country Code,Country Name,Region,Income Group,Lending Type
+0,2013,45.7069754663,100.0,20.7693406189,CAN,Canada,North America,High income,Not classified
+1,2014,46.3805411152,100.0,20.7631254341,CAN,Canada,North America,High income,Not classified
+2,2015,47.1564557884,100.0,21.0671795331,CAN,Canada,North America,High income,Not classified
+3,2013,53.3542663388,80.7915420532,79.7205093068,IND,India,South Asia,Lower middle income,IBRD
+4,2014,52.4483667545,83.5347213745,80.8961553148,IND,India,South Asia,Lower middle income,IBRD
+5,2015,51.6434417413,88.0,81.892098649,IND,India,South Asia,Lower middle income,IBRD
+6,2013,50.6809593865,90.2,40.1230973967,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+7,2014,51.3386859552,92.2588043213,60.797688789,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+8,2015,51.8938967841,94.075302124,51.5248065544,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+9,2013,50.4259151723,100.0,67.8246484698,USA,United States,North America,High income,Not classified
+10,2014,50.7930402586,100.0,67.4619532149,USA,United States,North America,High income,Not classified
+11,2015,51.2095505815,100.0,67.0787014713,USA,United States,North America,High income,Not classified
